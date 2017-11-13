@@ -2,11 +2,11 @@
 layout: archive
 permalink: /
 carousel:
-  - image: /images/veida-banner1.jpg
-  - image: /images/veida-banner6.jpg
-  - image: /images/veida-banner7.jpg
-  - image: /images/veida-banner8.jpg
-  - image: /images/veida-banner9.jpg
+  - image: /im/Black_Belt.jpg
+  - image: /im/Colour_Belts.jpg
+  - image: /im/Girlswithbluemat.jpg
+  - image: "/im/Hand to hand combat.jpg"
+  - image: "/im/Neil & Student.jpg"
   - image: /images/veida-banner10.jpg
 published: true
 title: ''

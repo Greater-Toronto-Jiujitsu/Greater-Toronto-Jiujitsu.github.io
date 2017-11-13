@@ -17,7 +17,8 @@ url: ''
 ![Neil Dalgarno](http://www.gtjj.ca/Gallery/chief%20instructor.jpg)
 
 
- Founded by Shihan Neil Dalgarno, 6 th Dan, in 1990, Greater Toronto Jiu-Jitsu has become the leading centre for Japanese Jiu-Jitsu in the GTA. Neil, who is an Ontario Certified Teacher with degrees in Kinesiology and Education, has taught thousands of students over the past thirty years. Neil holds many National Coaching Certifications and has coached athletes who have become National team members and Olympic medalists. Neil is the president of the Canadian Japanese Jiu-Jitsu Alliance- CJJA and also operates MMA U, which provides excellence in personal safety/self defense instruction.
+Founded by Shihan Neil Dalgarno, 6th Dan, in 1990, Greater Toronto Jiu-Jitsu has become the leading centre for Japanese Jiu-Jitsu in the GTA. Neil, who is an **Ontario Certified Teacher** with degrees in Kinesiology and Education, has taught thousands of students over the past thirty years. Neil holds many National Coaching Certifications and has coached athletes who have become National team members and Olympic medalists. Neil is the president of the Canadian Japanese Jiu-Jitsu Alliance- **CJJA** and also operates **MMA U**, which provides excellence in personal safety/self defense instruction.
+
 
 ## Instructors
 
