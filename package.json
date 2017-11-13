@@ -4,7 +4,7 @@
   "private": true,
   "description": "Greater Toronto JiuJitsu",
   "author": "Phillip Robbins <phillip.robbins1@gmail.com>",
-  "homepage": "http://greatertorontojiujitsu.ca/",
+  "homepage": "http://gtjj.ca/",
   "license": "The MIT License (MIT)",
   "devDependencies": {
     "grunt": "~0.4.2",
