@@ -1,6 +1,26 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: HISTORY
+  url: /history/
+  excerpt: "VEIDA's Publications"
+  image: veida-teaser-709x443.png
+
+- title: Instructors
+  url: /Instructors/
+  excerpt: "VEIDA's People"
+  image: veida-teaser-709x443.png
+
+- title: Schedule
+  url: /Schedule/
+  excerpt: "Class Shedule"
+  image: veida-teaser-709x443.png
+
+- title: Syllabus
+  url: /Syllabus/
+  excerpt: "Belt Syllabus"
+  image: veida-teaser-709x443.png
+
+- title: Contact
+  url: /contact/
+  excerpt: "Get in touch"
+  image: veida-teaser-709x443.png

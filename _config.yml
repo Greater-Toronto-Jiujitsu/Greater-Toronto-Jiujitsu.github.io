@@ -1,13 +1,32 @@
 # Site wide configuration
-
-title: "My Site"
-description: "This is a description of my awesome site."
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+title: "Greater Toronto Jiu-Jitsu"
+subtitle: "GTJJ"
+description: "Modern Day Self Defence"
+logo: veida-logo-orange-light.png # 120x120 px default image used for Twitter summary card
+teaser: veida-teaser-709x443.png # 400x250 px default teaser image used in image archive grid
+bannerimg: veida-banner4.jpg
 locale: en
-url:
+url: http://www.veidalab.com
 feed:
   path: atom.xml
+
+# Contact Info
+email: greatertorontojj@gmail.com
+phone: "9058825907"
+organization: "Centre for Martial Arts"
+address: "Centre for Martial Arts,
+Richmond Hill Campus
+2 Hunter's Point, Lower level"
+city: Richmond Hill
+state: Ontario
+country: Canada
+zip_code: "L4C 9Y5"
+
+# Contact Form Destination
+contactform: https://lro66w36u9.execute-api.us-east-1.amazonaws.com/dev
+
+# Subscribe Form Destination
+subscribeurl: https://m2oqwwi6i3.execute-api.us-east-1.amazonaws.com/dev
 
 # Jekyll configuration
 
@@ -22,20 +41,25 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-
+  - jekyll-mentions
+  - jemoji
+  - html-proofer
+  - jekyll-seo-tag
 
 # Site owner
 owner:
-  name:
-  email:
-  twitter:
-  google:
-    ad-client:
-    ad-slot:
-  bio:
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname:
+  name: Phillip Robbind
+  email: Phillip.Robbins1@gmail.com
 
+
+# For Social Media
+social:
+  twitter:
+  facebook:
+  youtube:
+
+# For Google Analytics
+analytics-google: 'UA-90629217-1'
 
 include:
   - .htaccess

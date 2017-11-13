@@ -1,4 +1,10 @@
 # Footer navigation links
 
-- title:
-  url:
+- title: Youtube
+  youtube_url: https://www.youtube.com/channel/UCdrwmuZaNiN49_519kWT6dQ
+
+- title: Twitter
+  twitter_url: https://twitter.com/gtjj/
+
+- title: Facebook
+  facebook_url: https://www.facebook.com/gtjj/

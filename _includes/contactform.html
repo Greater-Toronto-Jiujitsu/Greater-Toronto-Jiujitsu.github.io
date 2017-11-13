@@ -1,0 +1,60 @@
+<!-- Contact -->
+<section id="contact-form">
+    <div class="inner-left">
+        <section>
+            <h2>Contact Us</h2>
+            <form id="myForm" action="{{ site.contactform }}" method="POST">
+                <div class="field half first">
+                    <input type="text" name="name" id="name" placeholder="Name"/>
+                </div>
+                <div class="field half">
+                    <input type="text" name="email" id="email" placeholder="Email"/>
+                </div>
+                <div class="field">
+                    <textarea name="message" id="message" rows="6" placeholder="Message" style="font-size:12pt;"></textarea>
+                </div>
+                <span class="checkbox">
+                  <input type="checkbox" name="subscribe" value="1" id="subscribecheck" checked="">
+                  <label class="label_checkbox" for="subscribecheck">subscribe to receive news and blog updates.</label>
+                </span>
+                <ul class="actions" style="float:right;margin:0px;height:42px;">
+                    <li><input type="submit" value="Send Message" class="special btn-inner-right" /></li>
+                </ul>
+            </form>
+            <div id="msg-sending" style="display:none;">
+                <div class="loader">Sending...</div>
+            </div>
+            <div id="msg-response" style="display:none;"></div>
+        </section>
+    </div>
+    <div class="inner-right">
+        <section>
+            <div class="contact-method">
+                <span class="icon alt fa-envelope"></span>
+                <h3>Email</h3>
+            </div>
+            <br />
+            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+        </section>
+        <section>
+            <div class="contact-method">
+                <span class="icon alt fa-phone"></span>
+                <h3>Phone</h3>
+            </div>
+            <br />
+            <span>{{ site.phone }}</span>
+        </section>
+        <section>
+            <div class="contact-method">
+                <span class="icon alt fa-home"></span>
+                <h3>Address</h3>
+            </div>
+            <br />
+            <span>{{ site.department }}<br />
+                    {{ site.organization }}</span>
+            <span>{{ site.address }}<br />
+					{{ site.city }}, {{ site.state }} {{ site.zip_code }}<br />
+					{{ site.country }}</span>
+        </section>
+    </div>
+</section>

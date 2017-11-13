@@ -6,6 +6,11 @@
   @include outer-container;
 }
 
+.wrap-banner {
+  @include outer-container;
+  margin-top: $banner;
+}
+
 .come-in {
   @include transform(translateY(20px));
   @include animation(pop 0.5s ease forwards);
