@@ -1,6 +1,6 @@
-![buildstatus](https://travis-ci.org/veidalab/veidalab.github.io.svg?branch=master)
+![buildstatus](gtjj.ca)
 
-# VEIDA Lab Website
+# GTJJ Website
 The GTJJ website is based on the jekyll skinny bones theme.
 
 ![screenshot](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
