@@ -503,6 +503,9 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -ms-filter: "FlipH";}
 .flexslider .flex-prev {opacity: 0.8; left: 5px;}
 
+.flexslider .slides > li {display: none; -webkit-backface-visibility: hidden; background-color: #ffffff; text-align: center;}
+.flexslider .slides img {width: auto; display: inline;}
+
 
 .icon {
   text-decoration: none;

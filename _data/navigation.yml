@@ -1,5 +1,10 @@
 # Site navigation links
 
+- title: Home
+  url: /
+  excerpt: "Home Page"
+  image: GTJJlogowhite.jpg
+
 - title: HISTORY
   url: /history/
   excerpt: "History of JiuJitsu"
@@ -23,4 +28,9 @@
 - title: Contact
   url: /contact/
   excerpt: "Get in touch"
+  image: GTJJlogowhite.jpg
+
+- title: Announcements
+  url: /news/
+  excerpt: "Announcements"
   image: GTJJlogowhite.jpg
