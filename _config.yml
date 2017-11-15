@@ -45,6 +45,7 @@ plugins:
   - jemoji
   - html-proofer
   - jekyll-seo-tag
+  - jekyll-twitter-plugin
 
 # Site owner
 owner:

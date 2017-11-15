@@ -11,3 +11,5 @@ url: 'news'
 ## ANNOUNCEMENTS
 
 Announcements section is under construction...
+
+{% twitter https://twitter.com/JustinTrudeau maxwidth=500 limit=5 %}
