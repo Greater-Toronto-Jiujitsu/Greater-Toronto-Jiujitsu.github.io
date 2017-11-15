@@ -21,7 +21,7 @@ url: ''
 | 1st Kyu | [Brown To Brown Stripe Belt](/pdf/BROWN BELT SYLLABUS 2015.pdf) |
 | Shodan | [Brown To 1st Black Belt (Shodan)](/pdf/SHODAN GRADING REQUIREMENTS 2015.pdf) |
 | Nidan | [Black To 2nd Black Belt (Nidan)](/pdf/NIDAN SYLLABUS.pdf) |
-| ![](/image/black.png) TEST CAP| [Black To 2nd Black Belt (Nidan)](/pdf/NIDAN SYLLABUS.pdf) |
+| ![](/images/black.png) TEST CAP| [Black To 2nd Black Belt (Nidan)](/pdf/NIDAN SYLLABUS.pdf) |
 
 ### Junior Belt Syllabus
 
