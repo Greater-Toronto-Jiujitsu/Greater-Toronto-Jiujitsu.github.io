@@ -1,1 +1,1 @@
-Sitemap: http://www.veidalab.com/sitemap.xml
+Sitemap: https://www.veidalab.com/sitemap.xml

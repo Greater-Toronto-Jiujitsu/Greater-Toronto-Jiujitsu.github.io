@@ -6,7 +6,7 @@ logo: GTJJ_LOGO.jpg # 120x120 px default image used for Twitter summary card
 teaser: GTJJ_LOGO.jpg # 400x250 px default teaser image used in image archive grid
 bannerimg: GTJJ_LOGO.jpg
 locale: en
-url: http://www.veidalab.com
+url: https://www.veidalab.com
 feed:
   path: atom.xml
 
