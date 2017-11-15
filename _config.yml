@@ -6,7 +6,7 @@ logo: GTJJ_LOGO.jpg # 120x120 px default image used for Twitter summary card
 teaser: GTJJ_LOGO.jpg # 400x250 px default teaser image used in image archive grid
 bannerimg: GTJJ_LOGO.jpg
 locale: en
-url: http://www.veidalab.com
+url: https://greater-toronto-jiujitsu.github.io
 feed:
   path: atom.xml
 
@@ -37,7 +37,7 @@ permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
 highlighter: rouge
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
