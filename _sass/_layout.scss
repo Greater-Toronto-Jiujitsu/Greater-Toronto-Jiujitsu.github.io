@@ -30,10 +30,10 @@
 .site-title {
   @include row;
   @include media($medium) {
-    @include span-columns(3);
+    @include span-columns(2);
   }
-  padding: (.25 * $masthead-height) 0; // fourth the height to center vertically
-  height: $masthead-height;
+  padding: (.05 * $masthead-height) 0; // fourth the height to center vertically
+  //height: $masthead-height;
   text-decoration: none;
   color: $white;
   font-family: $alt-font;
@@ -44,7 +44,7 @@
   line-height: .5 * $masthead-height; // half the height to center vertically
   text-transform: uppercase;
   .site-logo {
-    height: 65px;
+    height: 110px;
     z-index: inherit;
     cursor: pointer;
   }
@@ -170,7 +170,7 @@
 #main {
   .inner-wrap {
     @include media($medium) {
-      @include span-columns(9);
+      @include span-columns(7);
     }
   }
   .page-title {

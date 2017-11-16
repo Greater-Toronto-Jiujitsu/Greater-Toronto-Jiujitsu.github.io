@@ -5,10 +5,10 @@
   excerpt: "Home Page"
   image: GTJJlogowhite.jpg
 
-- title: HISTORY
-  url: /history/
-  excerpt: "History of JiuJitsu"
-  image: GTJJlogowhite.jpg
+# - title: HISTORY
+#  url: /history/
+#  excerpt: "History of JiuJitsu"
+#  image: GTJJlogowhite.jpg
 
 - title: Instructors
   url: /Instructors/
@@ -18,19 +18,19 @@
 - title: Schedule
   url: /Schedule/
   excerpt: "Class Shedule"
-  image: GTJJlogowhite.jpg
+  image: clock-icon.png
 
 - title: Syllabus
   url: /Syllabus/
   excerpt: "Belt Syllabus"
-  image: GTJJlogowhite.jpg
+  image: syl.png
 
 - title: Contact
   url: /contact/
   excerpt: "Get in touch"
-  image: GTJJlogowhite.jpg
+  image: contact-phone-icon-4.png
 
-- title: Announcements
+- title: News
   url: /news/
-  excerpt: "Announcements"
-  image: GTJJlogowhite.jpg
+  excerpt: "News & Announcements"
+  image: huwbcydquxzrizuuzkyu.png
