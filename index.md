@@ -6,13 +6,13 @@ published: true
 title: ''
 showcontactform: yes
 ---
+{:refdef: style="text-align: center;"}
+![GTJJ LOGO WHITE](images/GTJJlogowhite.jpg){: width="350px";"}
+{: refdef}
 
-![GTJJ LOGO WHITE](images/GTJJlogowhite.jpg)
 
-
-
-**MISSION STATEMENT:**
-{: style="color:gray; font-size: 150%; text-align: center;"}
+<strong>**MISSION STATEMENT**</strong>
+{: style="color:gray; font-size: 200%; text-align: center;"}
 **Our mission is to take the ancient battlefield art of Japanese Jiu-Jitsu and transform it into Self Defense for modern times, so that our students — men, women and children — can walk the streets with confidence. This mission will be accomplished with dedication, respect and humility.**
 {: style="color:gray; font-size: 150%; text-align: center;border-style: solid;"}
 

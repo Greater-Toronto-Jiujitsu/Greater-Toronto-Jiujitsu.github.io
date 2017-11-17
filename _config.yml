@@ -1,12 +1,12 @@
 # Site wide configuration
 title: "Greater Toronto Jiu-Jitsu"
 subtitle: "GTJJ"
-description: "Modern Day Self Defence"
+description: "GTJJ - Modern Day Self Defence"
 logo: GTJJ_LOGO.jpg # 120x120 px default image used for Twitter summary card
 teaser: GTJJ_LOGO.jpg # 400x250 px default teaser image used in image archive grid
 bannerimg: GTJJ_LOGO.jpg
 locale: en
-url: https://greater-toronto-jiujitsu.github.io
+url: http://gtjj.ca
 feed:
   path: atom.xml
 

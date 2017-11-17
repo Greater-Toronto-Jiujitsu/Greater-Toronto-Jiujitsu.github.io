@@ -1,1 +1,1 @@
-Sitemap: https://greater-toronto-jiujitsu.github.io/sitemap.xml
+Sitemap: http://gtjj.ca/sitemap.xml

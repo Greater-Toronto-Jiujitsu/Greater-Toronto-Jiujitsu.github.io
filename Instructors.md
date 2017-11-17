@@ -7,11 +7,11 @@ logo: veida-logo-orange-light.png
 teaser: 'http://www.gtjj.ca/club_small.gif'
 url: ''
 ---
-### [Shihan](https://en.wikipedia.org/wiki/Shihan) Neil Dalgarno [O.C.T](https://en.wikipedia.org/wiki/Ontario_Certified_Teacher), [6th Dan](https://en.wikipedia.org/wiki/Dan_(rank)) - Head Instructor
+### [Shihan](https://en.wikipedia.org/wiki/Shihan) Neil Dalgarno [O.C.T.](https://en.wikipedia.org/wiki/Ontario_Certified_Teacher), [6th Dan](https://en.wikipedia.org/wiki/Dan_(rank)) - Head Instructor
 
 ![Neil Dalgarno](/im/Neil Dalgarno GTJJ.JPG "Test Cap"){: width="220px"; align="right"; style="float: right"}
 
-Founded by [Shihan](https://en.wikipedia.org/wiki/Shihan) Neil Dalgarno, [6th Dan](https://en.wikipedia.org/wiki/Dan_(rank)), in 1990, Greater Toronto Jiu-Jitsu has become the leading centre for Japanese Jiu-Jitsu in the GTA. Neil, who is an **Ontario Certified Teacher** ([O.C.T](https://en.wikipedia.org/wiki/Ontario_Certified_Teacher)) with degrees in [Kinesiology](https://en.wikipedia.org/wiki/Kinesiology) and Education, has taught thousands of students over the past thirty years. Neil holds many National Coaching Certifications and has coached athletes who have become National team members and Olympic medalists. Neil is the president of the Canadian Japanese Jiu-Jitsu Alliance- **CJJA** and also operates **MMA U**, which provides excellence in personal safety/self defense instruction.
+Founded by [Shihan](https://en.wikipedia.org/wiki/Shihan) Neil Dalgarno, [6th Dan](https://en.wikipedia.org/wiki/Dan_(rank)), in 1990, Greater Toronto Jiu-Jitsu has become the leading centre for Japanese Jiu-Jitsu in the GTA. Neil, who is an **Ontario Certified Teacher** ([O.C.T.](https://en.wikipedia.org/wiki/Ontario_Certified_Teacher)) with degrees in [Kinesiology](https://en.wikipedia.org/wiki/Kinesiology) and Education, has taught thousands of students over the past thirty years. Neil holds many National Coaching Certifications and has coached athletes who have become National team members and Olympic medalists. Neil is the president of the Canadian Japanese Jiu-Jitsu Alliance- **CJJA** and also operates **MMA U**, which provides excellence in personal safety/self defense instruction.
 
 
 ### [Renshi](https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles) Tony Richardson, [5th Dan](https://en.wikipedia.org/wiki/Dan_(rank))
