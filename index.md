@@ -7,7 +7,7 @@ title: ''
 showcontactform: yes
 ---
 {:refdef: style="text-align: center;"}
-![GTJJ LOGO WHITE](images/GTJJlogowhite.jpg){: width="350px";"}
+![GTJJ LOGO WHITE](images/GTJJlogowhite.jpg){: width="450px";"}
 {: refdef}
 
 
