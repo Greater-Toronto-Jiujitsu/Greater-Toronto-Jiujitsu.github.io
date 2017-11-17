@@ -45,6 +45,8 @@ The Canadian Japanese Jiu-Jitsu Alliance is a governing body, whose aim is to pr
 ## History of Jiu-Jitsu
 ![History image](/images/Samurai.png){: width="250px"}
 
+Unlike many martial arts, Japanese Jiu-Jitsu has not had a neat and well organized history, therefore its roots have been very difficult to trace. Mentioned as far back as 2500 years ago, Japanese Jiu-Jitsu developed from many individual teachings, either originating in japan or coming to Japan from other Asian countries. The first formal school opened in 1532 in Japan and the art itself became an important part of Samurai training. Jiu-Jitsu is often called the “parent art”, since many other arts like BJJ, Judo and Aikido can trace direct lines to Japanese Jiu-Jitsu.
+
 Japanese Jiu-Jitsu is the most practical martial art! It is taught to police and military personnel throughout the world. The reason for this simple. Japanese Jiu-Jitsu is the original Mixed Martial Art (MMA)!
 Japanese Jiu-Jitsu contains elements of striking, takedowns, and BJJ/grappling, making it the favoured art, not only of professional fighters, but people interested in defending themselves in any situation!
 
