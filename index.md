@@ -23,6 +23,8 @@ Founded by [Shihan Neil Dalgarno](/Instructors) in 1990, Greater Toronto Jiu-Jit
 
 Our training facilities are world class! Greater Toronto Jiu-Jitsu classes are held at the Centre for Martial Arts, in Richmond Hill, Ontario. Our shared facility boasts, four dojos (training halls), spacious change-rooms with showers and a welcoming reception area.
 
+![GTJJ LOGO WHITE](images/CJJAlogo.jpg){: width="120px";"}
+
 Greater Toronto Jiu-Jitsu is affiliated with the Canadian Japanese Jiu-Jitsu Alliance (CJJA) and the World Kobudo Federation (WFK). All new black belts are graded under the CJJA. The WKF, regularly hosts National and International seminars, designed to bring together the best martial artists from around the globe.
 
 ## Curriculum
