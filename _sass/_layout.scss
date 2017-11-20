@@ -51,23 +51,6 @@
 }
 
 /*
-   image alignment added by phil
-   ========================================================================== */
-.image-right-phil {
-  display: block;
-  margin-left: 10px;
-  margin-right: auto;
-  float: right;
-}
-
-.image-left-phil {
-  display: block;
-  margin-left: auto;
-  margin-right: 10px;
-  float: left;
-}
-
-/*
    Menus
    ========================================================================== */
 
@@ -633,4 +616,21 @@
   background-position: 50% 50%;
   top: 0px;
   left: 0px;
+}
+
+/*
+   image alignment added by phil
+   ========================================================================== */
+.imagerightphil {
+  display: block;
+  margin-left: 10px;
+  margin-right: auto;
+  float: right;
+}
+
+.imageleftphil {
+  display: block;
+  margin-left: auto;
+  margin-right: 10px;
+  float: left;
 }

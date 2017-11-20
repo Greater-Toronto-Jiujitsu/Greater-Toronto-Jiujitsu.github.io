@@ -24,13 +24,13 @@ Founded by [Shihan Neil Dalgarno](/Instructors) in 1990, Greater Toronto Jiu-Jit
 Our training facilities are world class! Greater Toronto Jiu-Jitsu classes are held at the Centre for Martial Arts, in Richmond Hill, Ontario. Our shared facility boasts, four dojos (training halls), spacious change-rooms with showers and a welcoming reception area.
 
 
-![CJJA LOGO](images/CJJAlogo.jpg){: width="120px"}{:class="image-left-phil"}
+![CJJA LOGO](images/CJJAlogo.jpg){: width="120px"}{:class="imageleftphil"}
 Greater Toronto Jiu-Jitsu is affiliated with the Canadian Japanese Jiu-Jitsu Alliance (CJJA) and the World Kobudo Federation (WFK). All new black belts are graded under the CJJA. The WKF, regularly hosts National and International seminars, designed to bring together the best martial artists from around the globe.
 <br><br><br>
 
 
 # Curriculum
-![Self Defense image](/images/trophystudent.jpg){: width="250px"}{:class="image-left-phil"}
+![Self Defense image](/images/trophystudent.jpg){: width="250px"}{:class="imageleftphil"}
 Having over 30 years of teaching experience in Toronto schools, Shihan Neil incorporates sound pedagogy at every level of Jiu-Jitsu instruction. Also, having special education qualifications, allows him to better serve students of different abilities and challenges.
 
 Greater Toronto Jiu-Jitsu offers [separate classes for beginner, intermediate and advance children](/Schedule). After the age of 16, students, regardless of ability are encouraged to attend adult classes. Accommodations are often made to better serve the individual needs of students and parents.
@@ -40,7 +40,7 @@ Our Japanese Jiu-Jitsu program allows students to progress through the tradition
 <br>
 
 # Self Defense and Personal Safety Training
-![Self Defense image](/images/slefdefence.jpg){: width="600px"}{:class="image-right-phil"}
+![Self Defense image](/images/slefdefence.jpg){: width="600px"}{:class="imagerightphil"}
 
 Thousands of high school students, professionals and members of the general public, have benefitted over the years from our Self Defense and Personal Safety Seminars. Both [Shihan Neil and Renshi Tony](/Instructors) worked closely with the Toronto Police Service, as self defense instructors with the “Improve Program”. Neil and Tony were presented with “Certificates of Recognition” by Deputy Chief Sloly.
 Self Defense Seminars, group or private lessons are available. [Please contact us at greatertorontojj@gmail.com](/contact)
@@ -50,7 +50,7 @@ The Canadian Japanese Jiu-Jitsu Alliance is a governing body, whose aim is to pr
 <br>
 
 # History of Jiu-Jitsu
-![History image](/images/Samurai.png){: width="250px"}{:class="image-left-phil"}
+![History image](/images/Samurai.png){: width="250px"}{:class="imageleftphil"}
 
 Unlike many martial arts, Japanese Jiu-Jitsu has not had a neat and well organized history, therefore its roots have been very difficult to trace. Mentioned as far back as 2500 years ago, Japanese Jiu-Jitsu developed from many individual teachings, either originating in japan or coming to Japan from other Asian countries. The first formal school opened in 1532 in Japan and the art itself became an important part of Samurai training. Jiu-Jitsu is often called the “parent art”, since many other arts like BJJ, Judo and Aikido can trace direct lines to Japanese Jiu-Jitsu.
 
