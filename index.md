@@ -24,13 +24,13 @@ Founded by [Shihan Neil Dalgarno](/Instructors) in 1990, Greater Toronto Jiu-Jit
 Our training facilities are world class! Greater Toronto Jiu-Jitsu classes are held at the Centre for Martial Arts, in Richmond Hill, Ontario. Our shared facility boasts, four dojos (training halls), spacious change-rooms with showers and a welcoming reception area.
 
 
-![CJJA LOGO](images/CJJAlogo.jpg){: width="120px"}{:class="image-left"}
+![CJJA LOGO](images/CJJAlogo.jpg){: width="120px"}{:class="image-left2"}
 Greater Toronto Jiu-Jitsu is affiliated with the Canadian Japanese Jiu-Jitsu Alliance (CJJA) and the World Kobudo Federation (WFK). All new black belts are graded under the CJJA. The WKF, regularly hosts National and International seminars, designed to bring together the best martial artists from around the globe.
 <br><br><br>
 
 
 # Curriculum
-![Self Defense image](/images/trophystudent.jpg){: width="250px"}{:class="image-left"}
+![Self Defense image](/images/trophystudent.jpg){: width="250px"}{:class="image-left2"}
 
 Having over 30 years of teaching experience in Toronto schools, Shihan Neil incorporates sound pedagogy at every level of Jiu-Jitsu instruction. Also, having special education qualifications, allows him to better serve students of different abilities and challenges.
 
@@ -51,7 +51,7 @@ The Canadian Japanese Jiu-Jitsu Alliance is a governing body, whose aim is to pr
 <br>
 
 # History of Jiu-Jitsu
-![History image](/images/Samurai.png){: width="250px"}{:class="image-left"}
+![History image](/images/Samurai.png){: width="250px"}{:class="image-left2"}
 
 Unlike many martial arts, Japanese Jiu-Jitsu has not had a neat and well organized history, therefore its roots have been very difficult to trace. Mentioned as far back as 2500 years ago, Japanese Jiu-Jitsu developed from many individual teachings, either originating in japan or coming to Japan from other Asian countries. The first formal school opened in 1532 in Japan and the art itself became an important part of Samurai training. Jiu-Jitsu is often called the “parent art”, since many other arts like BJJ, Judo and Aikido can trace direct lines to Japanese Jiu-Jitsu.
 
