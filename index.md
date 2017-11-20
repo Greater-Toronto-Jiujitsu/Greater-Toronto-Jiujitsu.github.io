@@ -31,7 +31,6 @@ Greater Toronto Jiu-Jitsu is affiliated with the Canadian Japanese Jiu-Jitsu All
 
 # Curriculum
 ![Self Defense image](/images/trophystudent.jpg){: width="250px"}{:class="image-left2"}
-
 Having over 30 years of teaching experience in Toronto schools, Shihan Neil incorporates sound pedagogy at every level of Jiu-Jitsu instruction. Also, having special education qualifications, allows him to better serve students of different abilities and challenges.
 
 Greater Toronto Jiu-Jitsu offers [separate classes for beginner, intermediate and advance children](/Schedule). After the age of 16, students, regardless of ability are encouraged to attend adult classes. Accommodations are often made to better serve the individual needs of students and parents.
