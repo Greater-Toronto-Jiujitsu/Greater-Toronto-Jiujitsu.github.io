@@ -1,0 +1,6 @@
+build exec jekyll serve - display page locally 127.0.0.1:4000
+build exec jekyll build - rebuild files
+
+git add --all [adds all files]
+git commit -am "message here" [commits with change note]
+git push origin master [un:gtjj pass:d****0ng]

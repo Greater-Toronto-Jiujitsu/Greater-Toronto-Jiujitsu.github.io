@@ -60,7 +60,7 @@ social:
   youtube:
 
 # For Google Analytics
-analytics-google: 'UA-90629217-1'
+analytics-google: 'UA-109999698-1'
 
 include:
   - .htaccess

@@ -30,7 +30,7 @@ Greater Toronto Jiu-Jitsu is affiliated with the Canadian Japanese Jiu-Jitsu All
 
 
 # Curriculum
-![Self Defense image](/images/trophystudent.jpg){: width="250px"}{:class="imageleftphil"}
+![Self Defense image](/images/trophystudent.jpg){: width="220px"}{:class="imageleftphil"}
 Having over 30 years of teaching experience in Toronto schools, Shihan Neil incorporates sound pedagogy at every level of Jiu-Jitsu instruction. Also, having special education qualifications, allows him to better serve students of different abilities and challenges.
 
 Greater Toronto Jiu-Jitsu offers [separate classes for beginner, intermediate and advance children](/Schedule). After the age of 16, students, regardless of ability are encouraged to attend adult classes. Accommodations are often made to better serve the individual needs of students and parents.
@@ -40,10 +40,15 @@ Our Japanese Jiu-Jitsu program allows students to progress through the tradition
 <br>
 
 # Self Defense and Personal Safety Training
-![Self Defense image](/images/slefdefence.jpg){: width="600px"}{:class="imagerightphil"}
 
-Thousands of high school students, professionals and members of the general public, have benefitted over the years from our Self Defense and Personal Safety Seminars. Both [Shihan Neil and Renshi Tony](/Instructors) worked closely with the Toronto Police Service, as self defense instructors with the “Improve Program”. Neil and Tony were presented with “Certificates of Recognition” by Deputy Chief Sloly.
-Self Defense Seminars, group or private lessons are available. [Please contact us at greatertorontojj@gmail.com](/contact)
+
+Thousands of high school students, professionals and members of the general public, have benefitted over the years from our Self Defense and Personal Safety Seminars.
+
+![Self Defense image](/images/slefdefence.jpg){: width="500px"}{:class="imageleftphil"}<br>
+Both [Shihan Neil and Renshi Tony](/Instructors) worked closely with the Toronto Police Service, as self defense instructors with the “Improve Program”. Neil and Tony were presented with “Certificates of Recognition” by Deputy Chief Sloly.
+
+
+**Self Defense Seminars, group or private lessons are available. [Please contact us at greatertorontojj@gmail.com](/contact)**
 
 The Canadian Japanese Jiu-Jitsu Alliance is a governing body, whose aim is to promote excellence in Japanese Jiu-Jitsu. Training seminars and promotions are available throughout Canada to all martial artists who share our passion with Japanese Jiu-Jitsu.
 <br>
