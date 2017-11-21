@@ -2,9 +2,9 @@
 title: "Greater Toronto Jiu-Jitsu"
 subtitle: "GTJJ"
 description: "GTJJ - Modern Day Self Defence"
-logo: GTJJ_LOGO_OGcolor.jpg # 120x120 px default image used for Twitter summary card
-teaser: GTJJ_LOGO_OGcolor.jpg # 400x250 px default teaser image used in image archive grid
-bannerimg: GTJJ_LOGO_OGcolor.jpg
+logo: gtjj.png # 120x120 px default image used for Twitter summary card
+teaser: gtjj.png # 400x250 px default teaser image used in image archive grid
+bannerimg: gtjj.png
 locale: en
 url: http://gtjj.ca
 feed:
