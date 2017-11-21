@@ -44,7 +44,7 @@
   line-height: .5 * $masthead-height; // half the height to center vertically
   text-transform: uppercase;
   .site-logo {
-    height: 110px;
+    height: 115px;
     z-index: inherit;
     cursor: pointer;
   }
@@ -633,4 +633,8 @@
   margin-left: auto;
   margin-right: 10px;
   float: left;
+}
+
+.Instructor_text{
+  font-size: 28px;
 }
