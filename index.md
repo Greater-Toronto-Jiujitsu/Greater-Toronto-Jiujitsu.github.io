@@ -55,7 +55,7 @@ The Canadian Japanese Jiu-Jitsu Alliance is a governing body, whose aim is to pr
 <br>
 
 # History of Jiu-Jitsu
-![History image](/images/Samurai.png){: width="250px"}{:class="imageleftphil"}
+![History image](/images/Samurai.png){: width="210px"}{:class="imageleftphil"}
 
 Unlike many martial arts, Japanese Jiu-Jitsu has not had a neat and well organized history, therefore its roots have been very difficult to trace. Mentioned as far back as 2500 years ago, Japanese Jiu-Jitsu developed from many individual teachings, either originating in japan or coming to Japan from other Asian countries. The first formal school opened in 1532 in Japan and the art itself became an important part of Samurai training. Jiu-Jitsu is often called the “parent art”, since many other arts like BJJ, Judo and Aikido can trace direct lines to Japanese Jiu-Jitsu.
 

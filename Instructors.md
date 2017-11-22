@@ -7,9 +7,9 @@ teaser: 'http://www.gtjj.ca/club_small.gif'
 url: ''
 ---
 
+<div class="Instructor_page">
 <div>
-<div>
-      <h2 id="shihan-neil-dalgarno-oct-6th-dan---head-instructor"><a href="https://en.wikipedia.org/wiki/Shihan">Shihan</a> Neil Dalgarno <a href="https://en.wikipedia.org/wiki/Ontario_Certified_Teacher">O.C.T.</a>, <a href="https://en.wikipedia.org/wiki/Dan_(rank)">6th Dan</a> - Head Instructor</h2>
+      <h3 id="shihan-neil-dalgarno-oct-6th-dan---head-instructor"><a href="https://en.wikipedia.org/wiki/Shihan">Shihan</a> Neil Dalgarno <a href="https://en.wikipedia.org/wiki/Ontario_Certified_Teacher">O.C.T.</a>, <a href="https://en.wikipedia.org/wiki/Dan_(rank)">6th Dan</a> - Head Instructor</h3>
 </div>
 <div id="neil" style="border-style: ridge;" class="imageleftphil">
 <img src="/im/Neil Dalgarno GTJJ.JPG" alt="Neil Dalgarno" title="Test Cap" width="220px&quot;; align=&quot;right&quot;; style=&quot;float: right" class="imageleftphil" />
@@ -24,7 +24,7 @@ Founded by <a href="https://en.wikipedia.org/wiki/Shihan">Shihan</a> Neil Dalgar
 
 
 <div>
-<h2 id="renshi-tony-richardson-5th-dan"><a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Renshi</a> Tony Richardson, <a href="https://en.wikipedia.org/wiki/Dan_(rank)">5th Dan</a></h2>
+<h3 id="renshi-tony-richardson-5th-dan"><a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Renshi</a> Tony Richardson, <a href="https://en.wikipedia.org/wiki/Dan_(rank)">5th Dan</a></h3>
 </div>
 
 <div id="tony" style="border-style: ridge;" class="imageleftphil">
@@ -40,7 +40,7 @@ Founded by <a href="https://en.wikipedia.org/wiki/Shihan">Shihan</a> Neil Dalgar
 <br>
 
 <div>
-<h2 id="renshi-oneil-anderson-5th-dan"><a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Renshi</a> O’Neil Anderson, <a href="https://en.wikipedia.org/wiki/Dan_(rank)">5th Dan</a></h2>
+<h3 id="renshi-oneil-anderson-5th-dan"><a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Renshi</a> O’Neil Anderson, <a href="https://en.wikipedia.org/wiki/Dan_(rank)">5th Dan</a></h3>
 </div>
 <div id="oneil" style="border-style: ridge;" class="imageleftphil">
 <img src="/images/RenshiOneil.jpg" alt="O'Neil Anderson image" width="130px" class="imageleftphil" />
@@ -51,6 +51,8 @@ Founded by <a href="https://en.wikipedia.org/wiki/Shihan">Shihan</a> Neil Dalgar
 </div>
 <br>
 <br>
+
+
 </div>
 
 
@@ -60,7 +62,7 @@ Founded by <a href="https://en.wikipedia.org/wiki/Shihan">Shihan</a> Neil Dalgar
 
 --- replaced this section with the html above in order to properly section off the instructors in divs
 
-## [Shihan](https://en.wikipedia.org/wiki/Shihan) Neil Dalgarno [O.C.T.](https://en.wikipedia.org/wiki/Ontario_Certified_Teacher), [6th Dan](https://en.wikipedia.org/wiki/Dan_(rank)) - Head Instructor
+### [Shihan](https://en.wikipedia.org/wiki/Shihan) Neil Dalgarno [O.C.T.](https://en.wikipedia.org/wiki/Ontario_Certified_Teacher), [6th Dan](https://en.wikipedia.org/wiki/Dan_(rank)) - Head Instructor
 
 ![Neil Dalgarno](/im/Neil Dalgarno GTJJ.JPG "Test Cap"){: width="220px"; align="right"; style="float: right"}{:class="imagerightphil"}
 
