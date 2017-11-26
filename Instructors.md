@@ -49,11 +49,25 @@ Founded by <a href="https://en.wikipedia.org/wiki/Shihan">Shihan</a> Neil Dalgar
 <a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Renshi</a> O’Neil Anderson holds a <a href="https://en.wikipedia.org/wiki/Dan_(rank)">5th Dan</a> in Japanese Jiu-Jitsu. He began his Jiu-Jitsu training in the early 1990’s and has also achieved considerable success in BJJ. Among many other awards, Sensei O’Neil is a IBJJF World Masters Bronze Medalist and an Ontario Provincial Jiu-Jitsu (BJJ) Gold Medalist.
 </div>
 </div>
-<br>
-<br>
-
+<br><br><br>
+<br><br><br>
 
 </div>
+
+
+<br><br><br>
+<hr>
+![Trixi+Neil+Oniel+Kelvine](/images/Instructor_images/grouppic2.JPG){: width="70%"}{:class="imageleftphil"}
+<br><br>
+
+![Neil+Oniel+Newton+Tony](/images/Instructor_images/grouppic1.jpg){: width="70%"}{:class="imageleftphil"}
+
+
+
+
+
+
+
 
 
 
