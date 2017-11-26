@@ -49,17 +49,54 @@ Founded by <a href="https://en.wikipedia.org/wiki/Shihan">Shihan</a> Neil Dalgar
 <a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Renshi</a> O’Neil Anderson holds a <a href="https://en.wikipedia.org/wiki/Dan_(rank)">5th Dan</a> in Japanese Jiu-Jitsu. He began his Jiu-Jitsu training in the early 1990’s and has also achieved considerable success in BJJ. Among many other awards, Sensei O’Neil is a IBJJF World Masters Bronze Medalist and an Ontario Provincial Jiu-Jitsu (BJJ) Gold Medalist.
 </div>
 </div>
-<br><br><br>
+
+{% comment %}
+
+<div>
+<h3 id="sensai-kelvin"><a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Sensei</a> Kelvin Cheong, <a href="https://en.wikipedia.org/wiki/Dan_(rank)">1st Dan</a></h3>
+</div>
+<div id="oneil" style="border-style: none;" class="imageleftphil">
+<img src="/images/Instructor_images/RenshiOneil-crop.jpg" alt="Kelvin Cheong image" width="220px" class="imageleftphil" />
+
+<div class="Instructor_text">
+<a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Sensei</a>
+XXXXKelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.XXXX
+</div>
+
+
 <br><br><br>
 
 </div>
-
+{% endcomment %}
 
 <br><br><br>
 <hr>
 
 
 {% comment %}
+_________________
+_________________
+_________________
+
+<div>
+<h3 id="sensai-kelvin"><a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Sensei</a> Kelvin Cheong, <a href="https://en.wikipedia.org/wiki/Dan_(rank)">1st Dan</a></h3>
+</div>
+<div id="oneil" style="border-style: none;" class="imageleftphil">
+<img src="/images/Instructor_images/RenshiOneil-crop.jpg" alt="Kelvin Cheong image" width="220px" class="imageleftphil" />
+
+<div class="Instructor_text">
+<a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Sensei</a>
+XXXXKelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.XXXX
+</div>
+
+
+<br><br><br>
+<br><br><br>
+
+</div>
+_________________
+_________________
+_________________
 
 ![Trixi+Neil+Oniel+Kelvine](/images/Instructor_images/grouppic2.JPG){: width="70%"}{:class="imageleftphil"}
 <br><br>
