@@ -43,7 +43,7 @@ Founded by <a href="https://en.wikipedia.org/wiki/Shihan">Shihan</a> Neil Dalgar
 <h3 id="renshi-oneil-anderson-5th-dan"><a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Renshi</a> O’Neil Anderson, <a href="https://en.wikipedia.org/wiki/Dan_(rank)">5th Dan</a></h3>
 </div>
 <div id="oneil" style="border-style: none;" class="imageleftphil">
-<img src="/images/Instructor_images/RenshiOneil-crop.jpg" alt="O'Neil Anderson image" width="210px" class="imageleftphil" />
+<img src="/images/Instructor_images/RenshiOneil-crop.jpg" alt="O'Neil Anderson image" width="220px" class="imageleftphil" />
 
 <div class="Instructor_text">
 <a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Renshi</a> O’Neil Anderson holds a <a href="https://en.wikipedia.org/wiki/Dan_(rank)">5th Dan</a> in Japanese Jiu-Jitsu. He began his Jiu-Jitsu training in the early 1990’s and has also achieved considerable success in BJJ. Among many other awards, Sensei O’Neil is a IBJJF World Masters Bronze Medalist and an Ontario Provincial Jiu-Jitsu (BJJ) Gold Medalist.
@@ -57,22 +57,15 @@ Founded by <a href="https://en.wikipedia.org/wiki/Shihan">Shihan</a> Neil Dalgar
 
 <br><br><br>
 <hr>
+
+
+{% comment %}
+
 ![Trixi+Neil+Oniel+Kelvine](/images/Instructor_images/grouppic2.JPG){: width="70%"}{:class="imageleftphil"}
 <br><br>
 
 ![Neil+Oniel+Newton+Tony](/images/Instructor_images/grouppic1.jpg){: width="70%"}{:class="imageleftphil"}
 
-
-
-
-
-
-
-
-
-
-
-{% comment %}
 
 --- replaced this section with the html above in order to properly section off the instructors in divs
 
