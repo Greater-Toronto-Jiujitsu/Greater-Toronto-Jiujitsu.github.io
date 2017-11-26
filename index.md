@@ -6,15 +6,20 @@ published: true
 title: ''
 showcontactform: yes
 ---
-{:refdef: style="text-align: center;"}
-![GTJJ LOGO WHITE](images/GTJJlogowhite.jpg){: width="450px";"}
-{: refdef}
 
 
 <strong>**MISSION STATEMENT**</strong>
 {: style="color:gray; font-size: 200%; text-align: center;"}
-**Our mission is to take the ancient battlefield art of Japanese Jiu-Jitsu and transform it into Self Defense for modern times, so that our students — men, women and children — can walk the streets with confidence. This mission will be accomplished with dedication, respect and humility.**
+![GTJJ LOGO WHITE](images/GTJJlogowhite.jpg){: width="100px";"}{:class="imageleftphil"}![GTJJ LOGO WHITE](images/GTJJlogowhite.jpg){: width="100px";"}{:class="imagerightphil"}**Our mission is to take the ancient battlefield art of Japanese Jiu-Jitsu and transform it into Self Defense for modern times, so that our students — men, women and children — can walk the streets with confidence. This mission will be accomplished with dedication, respect and humility.**
 {: style="color:gray; font-size: 150%; text-align: center;border-style: solid;"}
+
+### Latest Announcements:
+<div>
+<a class="twitter-timeline" data-width="1000" data-tweet-limit="1" href="https://twitter.com/gtjjnews?ref_src=twsrc%5Etfw">Latest Tweet</a>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+To view [past news & announcements, click here](/Instructors)
+
 
 # WELCOME TO GREATER TORONTO JIU-JITSU!
 Founded by [Shihan Neil Dalgarno](/Instructors) in 1990, Greater Toronto Jiu-Jitsu has become the leading center for Japanese Jiu-Jitsu and Self Defense in the GTA. Neil began his training in the 1980’s under the legendary Tom Sharkey, a former Special Forces U.S. Ranger. After grading for Shodan in 1990, Neil began teaching in the GTA, most notably at the Toronto Police College. Neil, who holds a 6th Dan in Japanese Jiu-Jitsu, also has an honours degree in Kinesiology and a Bachelor degree in Education. Neil is an **Ontario Certified Teacher** and Fitness Professional. With numerous National Coaching Certifications, Neil has coached athletes who have become National team members and Olympic medalists.
