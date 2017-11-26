@@ -7,5 +7,5 @@ logo:
 teaser: 'http://www.gtjj.ca/club_small.gif'
 url: 'news'
 ---
-<div class="jekyll-twitter-plugin"><a class="twitter-timeline" data-width="1000" data-tweet-limit="5" href="https://twitter.com/gtjjnews?ref_src=twsrc%5Etfw">LIVE ANNOUNCEMENTS:</a>
+<div class="jekyll-twitter-plugin"><a class="twitter-timeline" data-width="1100" data-tweet-limit="9" href="https://twitter.com/gtjjnews?ref_src=twsrc%5Etfw">LIVE ANNOUNCEMENTS:</a>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

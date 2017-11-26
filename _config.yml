@@ -1,7 +1,7 @@
 # Site wide configuration
 title: "Greater Toronto Jiu-Jitsu"
 subtitle: "GTJJ"
-description: "GTJJ - Modern Day Self Defence"
+description: "GTJJ - Modern Day Jiu-Jitsu for Self Defence"
 logo: gtjj.png # 120x120 px default image used for Twitter summary card
 teaser: gtjj.png # 400x250 px default teaser image used in image archive grid
 bannerimg: gtjj.png
@@ -49,8 +49,8 @@ plugins:
 
 # Site owner
 owner:
-  name: Phillip Robbind
-  email: Phillip.Robbins1@gmail.com
+  name: Neil Dalgarno
+  email: greatertorontojj@gmail.com
 
 
 # For Social Media

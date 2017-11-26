@@ -1,34 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://gtjj.ca/blog/first-entry/</loc>
-<lastmod>2017-01-23T00:00:00-08:00</lastmod>
-</url>
-<url>
-<loc>http://gtjj.ca/blog/biologically-inspired-signal-processing/</loc>
-<lastmod>2017-01-24T00:00:00-08:00</lastmod>
-</url>
-<url>
-<loc>http://gtjj.ca/blog/cultural-heritage-mixed-reality/</loc>
-<lastmod>2017-01-24T00:00:00-08:00</lastmod>
-</url>
-<url>
-<loc>http://gtjj.ca/blog/human-intent-recognition/</loc>
-<lastmod>2017-01-24T00:00:00-08:00</lastmod>
-</url>
-<url>
-<loc>http://gtjj.ca/blog/immersive-and-tangible-analytics/</loc>
-<lastmod>2017-01-24T00:00:00-08:00</lastmod>
-</url>
-<url>
-<loc>http://gtjj.ca/blog/knowledge-assisted-visualization/</loc>
-<lastmod>2017-01-24T00:00:00-08:00</lastmod>
-</url>
-<url>
-<loc>http://gtjj.ca/blog/unsupervised-pattern-recognition/</loc>
-<lastmod>2017-01-24T00:00:00-08:00</lastmod>
-</url>
-<url>
 <loc>http://gtjj.ca/Instructors/</loc>
 </url>
 <url>
