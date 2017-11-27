@@ -5,7 +5,8 @@ published: true
 overview:
 logo:
 teaser: 'Black_belt_syl.png'
-url: 'gtjj.ca'
+url: 'Syllabus'
+
 belticonsize: '{:height="36px" width="36px"}'
 beltsyl:
 - icon: "/images/belt/yellow.png"
@@ -74,7 +75,7 @@ beltsyl:
   {% for pdf in belt.pdfkids %}| [![]({{belt.icon}}){{page.belticonsize}} {{belt.title}}]({{pdf}}) | [{{belt.linktxt}}]({{pdf}}) |
     {% endfor %}
     {% endif %}
-    {% unless forloop.last %} {% endunless %}
+    {% if forloop.last %}{% endif %}
   {% endfor %}
 {% endif %}
 

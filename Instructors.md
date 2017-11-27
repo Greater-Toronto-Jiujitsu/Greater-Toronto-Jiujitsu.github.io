@@ -15,7 +15,11 @@ url: ''
 <img src="/images/Instructor_images/Neil Dalgarno GTJJ.JPG" alt="Neil Dalgarno" title="Test Cap" width="220px&quot;; align=&quot;right&quot;; style=&quot;float: right" class="imageleftphil" />
 
 <div class="Instructor_text">
-Founded by <a href="https://en.wikipedia.org/wiki/Shihan">Shihan</a> Neil Dalgarno, <a href="https://en.wikipedia.org/wiki/Dan_(rank)">6th Dan</a>, in 1990, Greater Toronto Jiu-Jitsu has become the leading centre for Japanese Jiu-Jitsu in the GTA. Neil, who is an <strong>Ontario Certified Teacher</strong> (<a href="https://en.wikipedia.org/wiki/Ontario_Certified_Teacher">O.C.T.</a>) with degrees in <a href="https://en.wikipedia.org/wiki/Kinesiology">Kinesiology</a> and Education, has taught thousands of students over the past thirty years. Neil holds many National Coaching Certifications and has coached athletes who have become National team members and Olympic medalists. Neil is the president of the Canadian Japanese Jiu-Jitsu Alliance- <strong>CJJA</strong> and also operates <strong>MMA U</strong>, which provides excellence in personal safety/self defense instruction.
+Founded by <a href="https://en.wikipedia.org/wiki/Shihan">Shihan</a> Neil Dalgarno, <a href="https://en.wikipedia.org/wiki/Dan_(rank)">6th Dan</a>, in 1990, Greater Toronto Jiu-Jitsu has become the leading centre for Japanese Jiu-Jitsu in the GTA. Neil, who is an <strong>Ontario Certified Teacher</strong> (<a href="https://en.wikipedia.org/wiki/Ontario_Certified_Teacher">O.C.T.</a>) with degrees in <a href="https://en.wikipedia.org/wiki/Kinesiology">Kinesiology</a> and Education, has taught thousands of students over the past thirty years.
+<br>
+Neil holds many National Coaching Certifications and has coached athletes who have become National team members and Olympic medalists.
+<br>
+Neil is the president of the Canadian Japanese Jiu-Jitsu Alliance- <strong>CJJA</strong> and also operates <strong>MMA U</strong>, which provides excellence in personal safety/self defense instruction.
 </div>
 </div>
 
@@ -31,7 +35,9 @@ Founded by <a href="https://en.wikipedia.org/wiki/Shihan">Shihan</a> Neil Dalgar
 <img src="/images/Instructor_images/RenshiTony-crop.jpg" alt="Tony Richardson image" width="220px" class="imageleftphil" />
 
   <div class="Instructor_text">
-  <a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Renshi</a> Tony Richardson holds a <a href="https://en.wikipedia.org/wiki/Dan_(rank)">5th Dan</a> in Japanese Jiu-Jitsu. He began his Jiu-Jitsu training in the early 1990’s, and also has experience in Muay Thai, MMA and BJJ. Renshi Tony has competed in Sport Jiu-Jitsu and amateur MMA. Among his other passions, <a href="https://en.wikipedia.org/wiki/Renshi">Renshi</a> Tony trains and coaches amateur and professional MMA fighters.
+  <a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Renshi</a> Tony Richardson holds a <a href="https://en.wikipedia.org/wiki/Dan_(rank)">5th Dan</a> in Japanese Jiu-Jitsu. He began his Jiu-Jitsu training in the early 1990’s, and also has experience in Muay Thai, MMA and BJJ. Renshi Tony has competed in Sport Jiu-Jitsu and amateur MMA.
+  <br>
+  Among his other passions, <a href="https://en.wikipedia.org/wiki/Renshi">Renshi</a> Tony trains and coaches amateur and professional MMA fighters.
   </div>
 
 </div>
@@ -46,28 +52,34 @@ Founded by <a href="https://en.wikipedia.org/wiki/Shihan">Shihan</a> Neil Dalgar
 <img src="/images/Instructor_images/RenshiOneil-crop.jpg" alt="O'Neil Anderson image" width="220px" class="imageleftphil" />
 
 <div class="Instructor_text">
-<a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Renshi</a> O’Neil Anderson holds a <a href="https://en.wikipedia.org/wiki/Dan_(rank)">5th Dan</a> in Japanese Jiu-Jitsu. He began his Jiu-Jitsu training in the early 1990’s and has also achieved considerable success in BJJ. Among many other awards, Sensei O’Neil is a IBJJF World Masters Bronze Medalist and an Ontario Provincial Jiu-Jitsu (BJJ) Gold Medalist.
+<a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Renshi</a> O’Neil Anderson holds a <a href="https://en.wikipedia.org/wiki/Dan_(rank)">5th Dan</a> in Japanese Jiu-Jitsu.
+<br>
+He began his Jiu-Jitsu training in the early 1990’s and has also achieved considerable success in BJJ.
+<br>
+Among a long list of awards, Sensei O’Neil is a <strong>IBJJF World Masters Bronze Medalist</strong> and an <strong>Ontario Provincial Jiu-Jitsu (BJJ) Gold Medalist</strong>.
 </div>
 </div>
 
-{% comment %}
 
 <div>
 <h3 id="sensai-kelvin"><a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Sensei</a> Kelvin Cheong, <a href="https://en.wikipedia.org/wiki/Dan_(rank)">1st Dan</a></h3>
 </div>
-<div id="oneil" style="border-style: none;" class="imageleftphil">
-<img src="/images/Instructor_images/RenshiOneil-crop.jpg" alt="Kelvin Cheong image" width="220px" class="imageleftphil" />
+<div id="kelvin" style="border-style: none;" class="imageleftphil">
+<img src="/images/Instructor_images/SenseiKelvin.png" alt="Kelvin Cheong image" width="220px" class="imageleftphil" />
 
 <div class="Instructor_text">
-<a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Sensei</a>
-XXXXKelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.Kelvin Cheong bio.XXXX
-</div>
+<a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Sensei</a> Kelvin Cheong, holds a <a href="https://en.wikipedia.org/wiki/Dan_(rank)">1st Dan</a> Black Belt in Japanese Jiu-Jitsu, awarded to him under Shihan Neil Dalgarno and Renshi Tony Richardson.
+<br>
+Having been educated in various martial arts around the world since October 1998, his expertise lies in Japanese Jiu-Jitsu, with a large extent of his training also in Brazilian Jiu-Jitsu, and <a href="https://en.wikipedia.org/wiki/Choy_Li_Fut">Choy Lay Fut Kung Fu</a>.
+<br>
+Martial Arts is about problem solving, and he believes that there is no discipline more versatile than Jiu-Jitsu, which offers the greatest assortment of tools to be used at the right time.  
+<br>
+Aside from continuously sharpening his tools throughout the week, Sensei Kelvin is also founder of <a href="https://rizemma.com">RIZE MMA INC.</a>, a social enterprise determined to spread martial arts education and inspire athletes through high-quality merchandise; saving the world one gi at a time.</div>
 
 
 <br><br><br>
 
 </div>
-{% endcomment %}
 
 <br><br><br>
 <hr>
