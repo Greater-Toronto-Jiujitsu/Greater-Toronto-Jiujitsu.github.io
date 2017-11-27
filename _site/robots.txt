@@ -1,1 +1,1 @@
-Sitemap: http://gtjj.ca/sitemap.xml
+Sitemap: gtjj.ca/sitemap.xml
