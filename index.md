@@ -18,7 +18,7 @@ showcontactform: yes
 <a class="twitter-timeline" data-width="1000" data-tweet-limit="1" href="https://twitter.com/gtjjnews?ref_src=twsrc%5Etfw">Latest Tweet</a>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
-To view [past news & announcements, click here](/Instructors)
+To view [past news & announcements, click here](/news)
 
 
 # WELCOME TO GREATER TORONTO JIU-JITSU!
