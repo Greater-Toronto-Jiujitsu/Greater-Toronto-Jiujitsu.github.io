@@ -2,11 +2,11 @@
 title: "Greater Toronto Jiu-Jitsu"
 subtitle: "GTJJ"
 description: "GTJJ - Modern Day Jiu-Jitsu for Self Defence"
-logo: /images/favicon/apple-icon-120x120.png # 120x120 px default image used for Twitter summary card
+logo: gtjj.png # 120x120 px default image used for Twitter summary card
 teaser: gtjj.png # 400x250 px default teaser image used in image archive grid
 bannerimg: gtjj.png
 locale: en
-url: gtjj.ca
+url: http://gtjj.ca
 feed:
   path: atom.xml
 
