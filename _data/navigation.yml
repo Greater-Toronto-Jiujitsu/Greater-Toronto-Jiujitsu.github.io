@@ -3,7 +3,7 @@
 - title: Home
   url: /
   excerpt: "Home Page"
-  image: GTJJlogowhite.jpg
+  image: gtjj_nav.png
 
 # - title: HISTORY
 #  url: /history/
@@ -18,19 +18,19 @@
 - title: Schedule
   url: /Schedule/
   excerpt: "Class Shedule"
-  image: clock-icon.png
+  image: clock-icon_nav.png
 
 - title: Syllabus
   url: /Syllabus/
   excerpt: "Belt Syllabus"
-  image: syl.png
+  image: syl_nav.png
 
 - title: Contact
   url: /contact/
   excerpt: "Get in touch"
-  image: contact-phone-icon-4.png
+  image: contact_nav.png
 
 - title: News
   url: /news/
   excerpt: "News & Announcements"
-  image: huwbcydquxzrizuuzkyu.png
+  image: news_nav.png
