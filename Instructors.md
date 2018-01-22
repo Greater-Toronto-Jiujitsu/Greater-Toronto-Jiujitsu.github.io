@@ -56,7 +56,7 @@ Neil is the president of the Canadian Japanese Jiu-Jitsu Alliance- <strong>CJJA<
 <br>
 He began his Jiu-Jitsu training in the early 1990’s and has also achieved considerable success in BJJ.
 <br>
-Among a long list of awards, Sensei O’Neil is a <strong>IBJJF World Masters Bronze Medalist</strong> and an <strong>Ontario Provincial Jiu-Jitsu (BJJ) Gold Medalist</strong>.
+Among a long list of awards, Renshi O’Neil is a <strong>IBJJF World Masters Bronze Medalist</strong> and an <strong>Ontario Provincial Jiu-Jitsu (BJJ) Gold Medalist</strong>.
 </div>
 </div>
 
