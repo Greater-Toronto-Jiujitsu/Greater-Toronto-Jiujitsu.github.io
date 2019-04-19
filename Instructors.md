@@ -20,8 +20,10 @@ Founded by <a href="https://en.wikipedia.org/wiki/Shihan">Shihan</a> Neil Dalgar
 Neil holds many National Coaching Certifications and has coached athletes who have become National team members and Olympic medalists.
 <br>
 Neil is the president of the Canadian Japanese Jiu-Jitsu Alliance- <strong>CJJA</strong> and also operates <strong>MMA U</strong>, which provides excellence in personal safety/self defense instruction.
+Neil is the author of the book <a href="https://www.amazon.ca/dp/0228801060/ref=cm_sw_r_cp_apa_i_HjqUCb0PM39YQ">Defend Yourself With Japanese Jiu-Jitsu" (Buy Now From Amazon)</a>
 </div>
 </div>
+
 
 <br>
 <br>
@@ -52,11 +54,11 @@ Neil is the president of the Canadian Japanese Jiu-Jitsu Alliance- <strong>CJJA<
 <img src="/images/Instructor_images/RenshiOneil-crop.jpg" alt="O'Neil Anderson image" title="O'Neil Anderson image" width="220px" class="imageleftphil" />
 
 <div class="Instructor_text">
-<a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Renshi</a> O’Neil Anderson holds a <a href="https://en.wikipedia.org/wiki/Dan_(rank)">5th Dan</a> in Japanese Jiu-Jitsu.
+<a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Renshi</a> O’Neil Anderson holds a <a href="https://en.wikipedia.org/wiki/Dan_(rank)">5th Dan</a> in Japanese Jiu-Jitsu , and a Black Belt in BJJ.
 <br>
 He began his Jiu-Jitsu training in the early 1990’s and has also achieved considerable success in BJJ.
 <br>
-Among a long list of awards, Renshi O’Neil is a <strong>IBJJF World Masters Bronze Medalist</strong> and an <strong>Ontario Provincial Jiu-Jitsu (BJJ) Gold Medalist</strong>.
+Among a long list of awards, Renshi O’Neil is a <strong>Ontario Open International Jiu-Jitsu & Ontario Provincial Jiu-Jitsu (BJJ) Gold Medalist</strong>, and IBJJF World Masters Bronze Medalist
 </div>
 </div>
 
