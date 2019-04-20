@@ -49,16 +49,20 @@ Our Japanese Jiu-Jitsu program allows students to progress through the tradition
 
 Thousands of high school students, professionals and members of the general public, have benefitted over the years from our Self Defense and Personal Safety Seminars.
 
-![Self Defense image](/images/slefdefence.jpg){: width="500px"}{:class="imageleftphil"}<br>
+![Self Defense image](/images/slefdefence.jpg){: width="500px"}{:class="imageleftphil"}![Self Defense book image](/images/Promo_Cover.jpg){: width="250px"}{:class="imageleftphil"}<br>
 Both [Shihan Neil and Renshi Tony](/Instructors) worked closely with the Toronto Police Service, as self defense instructors with the “Improve Program”. Neil and Tony were presented with “Certificates of Recognition” by Deputy Chief Sloly.
 <br>
 Shihan Neil is author of **["Defend Yourself With Japanese Jiu-Jitsu" (Buy Now From Amazon)](https://www.amazon.ca/dp/0228801060/ref=cm_sw_r_cp_apa_i_HjqUCb0PM39YQ)**. This self defense book is available through Amazon.ca or contact **greatertorontojj@gmail.com** for your copies.
+<br>
 
+
+![Self Defense image](/images/selfdefence1.jpg){: width="300px" height="300px"}     ![Self Defense image](/images/Selfdefence3.jpg){: width="300px" height="300px"}     ![Self Defense image](/images/selfdefence2.jpg){: width="300px" height="300px"}
+<>
 
 **Self Defense Seminars, group or private lessons are available. [Please contact us at greatertorontojj@gmail.com](/contact)**
 
 The Canadian Japanese Jiu-Jitsu Alliance is a governing body, whose aim is to promote excellence in Japanese Jiu-Jitsu. Training seminars and promotions are available throughout Canada to all martial artists who share our passion with Japanese Jiu-Jitsu.
-<br>![Self Defense image](/images/selfdefence1.jpg){: width="300px" height="300px"}     ![Self Defense image](/images/Selfdefence3.jpg){: width="300px" height="300px"}     ![Self Defense image](/images/selfdefence2.jpg){: width="300px" height="300px"}
+<br>
 <br>
 <br>
 
