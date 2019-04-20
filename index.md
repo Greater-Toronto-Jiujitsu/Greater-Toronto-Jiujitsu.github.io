@@ -57,7 +57,7 @@ Shihan Neil is author of **["Defend Yourself With Japanese Jiu-Jitsu" (Buy Now F
 
 
 ![Self Defense image](/images/selfdefence1.jpg){: width="300px" height="300px"}     ![Self Defense image](/images/Selfdefence3.jpg){: width="300px" height="300px"}     ![Self Defense image](/images/selfdefence2.jpg){: width="300px" height="300px"}
-<>
+
 
 **Self Defense Seminars, group or private lessons are available. [Please contact us at greatertorontojj@gmail.com](/contact)**
 
