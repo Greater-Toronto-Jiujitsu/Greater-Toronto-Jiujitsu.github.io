@@ -36,7 +36,7 @@ Greater Toronto Jiu-Jitsu is affiliated with the Canadian Japanese Jiu-Jitsu All
 
 # Curriculum
 ![Self Defense image](/images/trophystudent.jpg){: width="220px"}{:class="imageleftphil"}
-Having over 30 years of teaching experience in Toronto schools, Shihan Neil incorporates sound pedagogy at every level of Jiu-Jitsu instruction. Also, having special education qualifications, allows him to better serve students of different abilities and challenges.
+Having over 30 years of teaching experience in Toronto schools, Kyoshi Neil incorporates sound pedagogy at every level of Jiu-Jitsu instruction. Also, having special education qualifications, allows him to better serve students of different abilities and challenges.
 
 Greater Toronto Jiu-Jitsu offers [separate classes for beginner, intermediate and advance children](/Schedule). After the age of 16, students, regardless of ability are encouraged to attend adult classes. Accommodations are often made to better serve the individual needs of students and parents.
 
@@ -50,9 +50,9 @@ Our Japanese Jiu-Jitsu program allows students to progress through the tradition
 Thousands of high school students, professionals and members of the general public, have benefitted over the years from our Self Defense and Personal Safety Seminars.
 
 ![Self Defense image](/images/slefdefence.jpg){: width="500px"}{:class="imageleftphil"}![Self Defense book image](/images/Promo_Cover.jpg){: width="250px"}{:class="imageleftphil"}<br>
-Both [Shihan Neil and Renshi Tony](/Instructors) worked closely with the Toronto Police Service, as self defense instructors with the “Improve Program”. Neil and Tony were presented with “Certificates of Recognition” by Deputy Chief Sloly.
+Both [Kyoshi Neil and Renshi Tony](/Instructors) worked closely with the Toronto Police Service, as self defense instructors with the “Improve Program”. Neil and Tony were presented with “Certificates of Recognition” by Deputy Chief Sloly.
 <br>
-Shihan Neil is author of **["Defend Yourself With Japanese Jiu-Jitsu" (Buy Now From Amazon)](https://www.amazon.ca/dp/0228801060/ref=cm_sw_r_cp_apa_i_HjqUCb0PM39YQ)**. This self defense book is available through Amazon.ca or contact **greatertorontojj@gmail.com** for your copies.
+Kyoshi Neil is author of **["Defend Yourself With Japanese Jiu-Jitsu" (Buy Now From Amazon)](https://www.amazon.ca/dp/0228801060/ref=cm_sw_r_cp_apa_i_HjqUCb0PM39YQ)**. This self defense book is available through Amazon.ca or contact **greatertorontojj@gmail.com** for your copies.
 <br>
 
 
