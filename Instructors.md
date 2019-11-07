@@ -70,7 +70,7 @@ Among a long list of awards, Renshi O’Neil is a <strong>Ontario Open Internati
 <img src="/images/Instructor_images/SenseiKelvin.png" alt="Kelvin Cheong image" title="Kelvin Cheong image" width="220px" class="imageleftphil" />
 
 <div class="Instructor_text">
-<a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Sensei</a> Kelvin Cheong, holds a <a href="https://en.wikipedia.org/wiki/Dan_(rank)">1st Dan</a> Black Belt in Japanese Jiu-Jitsu, awarded to him under Shihan Neil Dalgarno and Renshi Tony Richardson.
+<a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Sensei</a> Kelvin Cheong, holds a <a href="https://en.wikipedia.org/wiki/Dan_(rank)">1st Dan</a> Black Belt in Japanese Jiu-Jitsu, awarded to him under Kyoshi Neil Dalgarno and Renshi Tony Richardson.
 <br>
 Having been educated in various martial arts around the world since October 1998, his expertise lies in Japanese Jiu-Jitsu, with a large extent of his training also in Brazilian Jiu-Jitsu, and <a href="https://en.wikipedia.org/wiki/Choy_Li_Fut">Choy Lay Fut Kung Fu</a>.
 <br>
@@ -99,7 +99,7 @@ Aside from continuously sharpening his tools throughout the week, Sensei Kelvin 
 
 ### [Kyoshi](https://en.wikipedia.org/wiki/Japanese_honorifics#Sh%C5%8Dg%C5%8D) Neil Dalgarno [O.C.T.](https://en.wikipedia.org/wiki/Ontario_Certified_Teacher), [7th Dan](https://en.wikipedia.org/wiki/Dan_(rank)) - Head Instructor
 
-![Neil Dalgarno](/im/Neil Dalgarno GTJJ.JPG "Shihan Neil Dalgarno"){: width="220px"; align="right"; style="float: right"}{:class="imagerightphil"}
+![Neil Dalgarno](/im/Neil Dalgarno GTJJ.JPG "Kyoshi Neil Dalgarno"){: width="220px"; align="right"; style="float: right"}{:class="imagerightphil"}
 
 Founded by [Kyoshi](https://en.wikipedia.org/wiki/Japanese_honorifics#Sh%C5%8Dg%C5%8D) Neil Dalgarno, [7th Dan](https://en.wikipedia.org/wiki/Dan_(rank)), in 1990, Greater Toronto Jiu-Jitsu has become the leading centre for Japanese Jiu-Jitsu in the GTA. Neil, who is an **Ontario Certified Teacher** ([O.C.T.](https://en.wikipedia.org/wiki/Ontario_Certified_Teacher)) with degrees in [Kinesiology](https://en.wikipedia.org/wiki/Kinesiology) and Education, has taught thousands of students over the past thirty years. Neil holds many National Coaching Certifications and has coached athletes who have become National team members and Olympic medalists. Neil is the president of the Canadian Japanese Jiu-Jitsu Alliance- **CJJA** and also operates **MMA U**, which provides excellence in personal safety/self defense instruction.{:class="imagerightphil"}
 
