@@ -70,9 +70,9 @@ Among a long list of awards, Renshi O’Neil is a <strong>Ontario Open Internati
 <img src="/images/Instructor_images/SenseiKelvin.png" alt="Kelvin Cheong image" title="Kelvin Cheong image" width="220px" class="imageleftphil" />
 
 <div class="Instructor_text">
-<a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Sensei</a> Kelvin Cheong, holds a <a href="https://en.wikipedia.org/wiki/Dan_(rank)">1st Dan</a> Black Belt in Japanese Jiu-Jitsu, awarded to him under Kyoshi Neil Dalgarno and Renshi Tony Richardson.
+<a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Sensei</a> Kelvin Cheong, holds a <a href="https://en.wikipedia.org/wiki/Dan_(rank)">2nd Dan</a> Black Belt in Japanese Jiu-Jitsu, awarded to him under Kyoshi Neil Dalgarno.
 <br>
-Having been educated in various martial arts around the world since October 1998, his expertise lies in Japanese Jiu-Jitsu, with a large extent of his training also in Brazilian Jiu-Jitsu, and <a href="https://en.wikipedia.org/wiki/Choy_Li_Fut">Choy Lay Fut Kung Fu</a>.
+Having been educated in various martial arts around the world since October 1998, his expertise lies in Japanese Jiu-Jitsu, with a large extent of his training also in Brazilian Jiu-Jitsu, Judo, and <a href="https://en.wikipedia.org/wiki/Choy_Li_Fut">Choy Lay Fut Kung Fu</a>.
 <br>
 Martial Arts is about problem solving, and he believes that there is no discipline more versatile than Jiu-Jitsu, which offers the greatest assortment of tools to be used at the right time.  
 <br>
@@ -104,14 +104,14 @@ Aside from continuously sharpening his tools throughout the week, Sensei Kelvin 
 Founded by [Kyoshi](https://en.wikipedia.org/wiki/Japanese_honorifics#Sh%C5%8Dg%C5%8D) Neil Dalgarno, [7th Dan](https://en.wikipedia.org/wiki/Dan_(rank)), in 1990, Greater Toronto Jiu-Jitsu has become the leading centre for Japanese Jiu-Jitsu in the GTA. Neil, who is an **Ontario Certified Teacher** ([O.C.T.](https://en.wikipedia.org/wiki/Ontario_Certified_Teacher)) with degrees in [Kinesiology](https://en.wikipedia.org/wiki/Kinesiology) and Education, has taught thousands of students over the past thirty years. Neil holds many National Coaching Certifications and has coached athletes who have become National team members and Olympic medalists. Neil is the president of the Canadian Japanese Jiu-Jitsu Alliance- **CJJA** and also operates **MMA U**, which provides excellence in personal safety/self defense instruction.{:class="imagerightphil"}
 
 
-### [Renshi](https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles) Tony Richardson, [5th Dan](https://en.wikipedia.org/wiki/Dan_(rank))
+### [Shihan](https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles) Tony Richardson, [5th Dan](https://en.wikipedia.org/wiki/Dan_(rank))
 
 ![Tony Richardson image](/images/RenshiTony.jpg "Tony Richardson"){: width="250px"}{:class="imagerightphil"}
- [Renshi](https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles) Tony Richardson holds a [5th Dan](https://en.wikipedia.org/wiki/Dan_(rank)) in Japanese Jiu-Jitsu. He began his Jiu-Jitsu training in the early 1990’s, and also has experience in Muay Thai, MMA and BJJ. Renshi Tony has competed in Sport Jiu-Jitsu and amateur MMA. Among his other passions, [Renshi](https://en.wikipedia.org/wiki/Renshi) Tony trains and coaches amateur and professional MMA fighters.{:class="imagerightphil"}
+ [Renshi](https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles) Tony Richardson holds a [6th Dan](https://en.wikipedia.org/wiki/Dan_(rank)) in Japanese Jiu-Jitsu. He began his Jiu-Jitsu training in the early 1990’s, and also has experience in Muay Thai, MMA and BJJ. Renshi Tony has competed in Sport Jiu-Jitsu and amateur MMA. Among his other passions, [Renshi](https://en.wikipedia.org/wiki/Renshi) Tony trains and coaches amateur and professional MMA fighters.{:class="imagerightphil"}
 
 ### [Renshi](https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles) O'Neil Anderson, [5th Dan](https://en.wikipedia.org/wiki/Dan_(rank))
 
 ![O'Neil Anderson image](/images/RenshiOneil.jpg "O'Neil Anderson"){: width="130px"}{:class="imagerightphil"}
 
-[Renshi](https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles) O’Neil Anderson holds a [5th Dan](https://en.wikipedia.org/wiki/Dan_(rank)) in Japanese Jiu-Jitsu. He began his Jiu-Jitsu training in the early 1990’s and has also achieved considerable success in BJJ. Among many other awards, Sensei O’Neil is a IBJJF World Masters Bronze Medalist and an Ontario Provincial Jiu-Jitsu (BJJ) Gold Medalist.{:class="imagerightphil"}
+[Shihan](https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles) O’Neil Anderson holds a [6th Dan](https://en.wikipedia.org/wiki/Dan_(rank)) in Japanese Jiu-Jitsu. He began his Jiu-Jitsu training in the early 1990’s and has also achieved considerable success in BJJ. Among many other awards, Sensei O’Neil is a IBJJF World Masters Bronze Medalist and an Ontario Provincial Jiu-Jitsu (BJJ) Gold Medalist.{:class="imagerightphil"}
 {% endcomment %}
