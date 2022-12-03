@@ -30,14 +30,14 @@ Neil is the author of the book <a href="https://www.amazon.ca/dp/0228801060/ref=
 
 
 <div>
-<h3 id="renshi-tony-richardson-5th-dan"><a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Renshi</a> Tony Richardson, <a href="https://en.wikipedia.org/wiki/Dan_(rank)">5th Dan</a></h3>
+<h3 id="renshi-tony-richardson-5th-dan"><a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Shihan</a> Tony Richardson, <a href="https://en.wikipedia.org/wiki/Dan_(rank)">6th Dan</a></h3>
 </div>
 
 <div id="tony" style="border-style: none;" class="imageleftphil">
 <img src="/images/Instructor_images/RenshiTony-crop.jpg" alt="Tony Richardson image" title="Tony Richardson image" width="220px" class="imageleftphil" />
 
   <div class="Instructor_text">
-  <a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Renshi</a> Tony Richardson holds a <a href="https://en.wikipedia.org/wiki/Dan_(rank)">5th Dan</a> in Japanese Jiu-Jitsu. He began his Jiu-Jitsu training in the early 1990’s, and also has experience in Muay Thai, MMA and BJJ. Renshi Tony has competed in Sport Jiu-Jitsu and amateur MMA.
+  <a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Shihan</a> Tony Richardson holds a <a href="https://en.wikipedia.org/wiki/Dan_(rank)">6th Dan</a> in Japanese Jiu-Jitsu. He began his Jiu-Jitsu training in the early 1990’s, and also has experience in Muay Thai, MMA and BJJ. Renshi Tony has competed in Sport Jiu-Jitsu and amateur MMA.
   <br>
   Among his other passions, <a href="https://en.wikipedia.org/wiki/Renshi">Renshi</a> Tony trains and coaches amateur and professional MMA fighters.
   </div>
@@ -48,13 +48,13 @@ Neil is the author of the book <a href="https://www.amazon.ca/dp/0228801060/ref=
 <br>
 
 <div>
-<h3 id="renshi-oneil-anderson-5th-dan"><a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Renshi</a> O’Neil Anderson, <a href="https://en.wikipedia.org/wiki/Dan_(rank)">5th Dan</a></h3>
+<h3 id="renshi-oneil-anderson-5th-dan"><a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Shihan</a> O’Neil Anderson, <a href="https://en.wikipedia.org/wiki/Dan_(rank)">6th Dan</a></h3>
 </div>
 <div id="oneil" style="border-style: none;" class="imageleftphil">
 <img src="/images/Instructor_images/RenshiOneil-crop.jpg" alt="O'Neil Anderson image" title="O'Neil Anderson image" width="220px" class="imageleftphil" />
 
 <div class="Instructor_text">
-<a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Renshi</a> O’Neil Anderson holds a <a href="https://en.wikipedia.org/wiki/Dan_(rank)">5th Dan</a> in Japanese Jiu-Jitsu , and a Black Belt in BJJ.
+<a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Shihan</a> O’Neil Anderson holds a <a href="https://en.wikipedia.org/wiki/Dan_(rank)">6th Dan</a> in Japanese Jiu-Jitsu , and a Black Belt in BJJ.
 <br>
 He began his Jiu-Jitsu training in the early 1990’s and has also achieved considerable success in BJJ.
 <br>
@@ -64,7 +64,7 @@ Among a long list of awards, Renshi O’Neil is a <strong>Ontario Open Internati
 
 
 <div>
-<h3 id="sensai-kelvin"><a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Sensei</a> Kelvin Cheong, <a href="https://en.wikipedia.org/wiki/Dan_(rank)">1st Dan</a></h3>
+<h3 id="sensai-kelvin"><a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles">Sensei</a> Kelvin Cheong, <a href="https://en.wikipedia.org/wiki/Dan_(rank)">2nd Dan</a></h3>
 </div>
 <div id="kelvin" style="border-style: none;" class="imageleftphil">
 <img src="/images/Instructor_images/SenseiKelvin.png" alt="Kelvin Cheong image" title="Kelvin Cheong image" width="220px" class="imageleftphil" />
@@ -109,7 +109,7 @@ Founded by [Kyoshi](https://en.wikipedia.org/wiki/Japanese_honorifics#Sh%C5%8Dg%
 ![Tony Richardson image](/images/RenshiTony.jpg "Tony Richardson"){: width="250px"}{:class="imagerightphil"}
  [Renshi](https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles) Tony Richardson holds a [6th Dan](https://en.wikipedia.org/wiki/Dan_(rank)) in Japanese Jiu-Jitsu. He began his Jiu-Jitsu training in the early 1990’s, and also has experience in Muay Thai, MMA and BJJ. Renshi Tony has competed in Sport Jiu-Jitsu and amateur MMA. Among his other passions, [Renshi](https://en.wikipedia.org/wiki/Renshi) Tony trains and coaches amateur and professional MMA fighters.{:class="imagerightphil"}
 
-### [Renshi](https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles) O'Neil Anderson, [5th Dan](https://en.wikipedia.org/wiki/Dan_(rank))
+### [Shihan](https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles) O'Neil Anderson, [5th Dan](https://en.wikipedia.org/wiki/Dan_(rank))
 
 ![O'Neil Anderson image](/images/RenshiOneil.jpg "O'Neil Anderson"){: width="130px"}{:class="imagerightphil"}
 
