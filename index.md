@@ -26,7 +26,7 @@ Founded by [Kyoshi Neil Dalgarno](/Instructors) in 1990, Greater Toronto Jiu-Jit
 
 [Kyoshi Neil, along with a number of his Black Belts](/Instructors), have produced some of the country’s finest young martial artists. As well as producing a number of Jiu-Jitsu champions, Greater Toronto Jiu-Jitsu can even boast that Carlos Newton, a former UFC Champion, is one of its Black Belt graduates!
 
-Our training facilities are world class! Greater Toronto Jiu-Jitsu classes are held 2 Hunters Point Drive, in Richmond Hill, Ontario. Our facility boasts, two dojos (training halls), spacious change-rooms with showers, a pro shop, free wifi, and a welcoming reception area.
+Our training facilities are world class! Greater Toronto Jiu-Jitsu classes are held at 2 Hunters Point Drive, in Richmond Hill, Ontario (very close to Yonge St. + Highway 7). Our facility boasts, two dojos (training halls), spacious change-rooms with showers, a pro shop, free wifi, and a welcoming reception area.
 
 
 ![CJJA LOGO](images/CJJAlogo.jpg){: width="120px"}{:class="imageleftphil"}
