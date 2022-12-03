@@ -8,4 +8,4 @@ layout: article
 
 | <b><u>Location</u><b> | <b><u>Contact</u><b>|
 |-------|--------|
-|Centre for Martial Arts,<br>Richmond Hill Campus<br>2 Hunter's Point, Lower level<br>Richmond Hill,<br>Ontario,<br>L4C 9Y5 | <a href="tel:905-882-5907">Club Phone: 905-882-5907</a><br><a href="tel:647-233-4029">Cell Phone: 647-233-4029</a><br>Please leave a message and we WILL get back to you.<br>OR<br>E-mail:<a href="mailto:greatertorontojj@gmail.com?Subject=Request%20for%20info" target="top"> greatertorontojj@gmail.com |
+|Greater Toronto Jiu-Jitsu Center Inc.,<br>2 Hunter's Point, Lower level<br>Richmond Hill,<br>Ontario,<br>L4C 9Y5 | <a href="tel:905-882-5907">Club Phone: 905-882-5907</a><br><a href="tel:647-233-4029">Cell Phone: 647-233-4029</a><br>Please leave a message and we WILL get back to you.<br>OR<br>E-mail:<a href="mailto:info@gtjj.ca?Subject=Request%20for%20info" target="top"> info@gtjj.ca |
