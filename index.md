@@ -50,9 +50,9 @@ Our Japanese Jiu-Jitsu program allows students to progress through the tradition
 Thousands of high school students, professionals and members of the general public, have benefitted over the years from our Self Defense and Personal Safety Seminars.
 
 ![Self Defense image](/images/slefdefence.jpg){: width="500px"}{:class="imageleftphil"}![Self Defense book image](/images/Promo_Cover.jpg){: width="250px"}{:class="imageleftphil"}<br>
-Both [Kyoshi Neil and Renshi Tony](/Instructors) worked closely with the Toronto Police Service, as self defense instructors with the “Improve Program”. Neil and Tony were presented with “Certificates of Recognition” by Deputy Chief Sloly.
+Both [Kyoshi Neil and Shihan Tony](/Instructors) worked closely with the Toronto Police Service, as self defense instructors with the “Improve Program”. Neil and Tony were presented with “Certificates of Recognition” by Deputy Chief Sloly.
 <br>
-Kyoshi Neil is author of **["Defend Yourself With Japanese Jiu-Jitsu" (Buy Now From Amazon)](https://www.amazon.ca/dp/0228801060/ref=cm_sw_r_cp_apa_i_HjqUCb0PM39YQ)**. This self defense book is available through Amazon.ca or contact **greatertorontojj@gmail.com** for your copies.
+Kyoshi Neil is author of **["Defend Yourself With Japanese Jiu-Jitsu" (Buy Now From Amazon)](https://www.amazon.ca/dp/0228801060/ref=cm_sw_r_cp_apa_i_HjqUCb0PM39YQ)**. This self defense book is available through Amazon.ca or contact **sales@gtjj.ca** for your copies.
 <br>
 
 
