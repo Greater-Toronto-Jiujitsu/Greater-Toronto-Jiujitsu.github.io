@@ -13,9 +13,9 @@ Please check the [NEWS](/news) page for any updates on schedule changes.
 | Day | Time | Skill Level |  |
 |-------|--------|---------|
 | Monday | - | - |
-| Tuesday | 06:15-07:00pm<br>07:00-07:45pm<br>07:45-08:30pm | Jr. Beginners<br>Jr. Intermediate<br>Jr. Advanced |
+| Tuesday | 07:00-07:45pm<br>07:45-08:30pm<br>07:45-08:30pm | Jr. Beginners<br>Jr. Intermediate<br>Jr. Advanced |
 | Wednesday | - | - |
-| Thursday | 06:15-07:00pm<br>07:00-07:45pm<br>07:45-08:30pm | Jr. Beginners<br>Jr. Intermediate<br>Jr. Advanced |
+| Thursday | 07:00-07:45pm<br>07:45-08:30pm | Jr. Beginners<br>Jr. Intermediate |
 | Friday | - | - |
 | Saturday | 12:00-01:00pm<br>01:00-02:00pm<br>12:00-02:00pm | Striking Class - All Levels<br>Grappling Class - All Levels<br>Open Mat |
 | Sunday | - | - |
