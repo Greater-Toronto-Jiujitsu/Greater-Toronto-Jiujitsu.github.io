@@ -9,13 +9,13 @@ url: ''
 
 <div class="Instructor_page">
 <div>
-      <h3 id="shihan-neil-dalgarno-oct-6th-dan---head-instructor"><a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Sh%C5%8Dg%C5%8D">Kyoshi</a> Neil Dalgarno <a href="https://en.wikipedia.org/wiki/Ontario_Certified_Teacher">O.C.T.</a>, <a href="https://en.wikipedia.org/wiki/Dan_(rank)">7th Dan</a> - Head Instructor</h3>
+      <h3 id="shihan-neil-dalgarno-oct-6th-dan---head-instructor"><a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Sh%C5%8Dg%C5%8D">Kyoshi</a> Neil Dalgarno</a>, <a href="https://en.wikipedia.org/wiki/Dan_(rank)">7th Dan</a> - Head Instructor</h3>
 </div>
 <div id="neil" style="border-style: none;" class="imageleftphil">
 <img src="/images/Instructor_images/Neil Dalgarno GTJJ.JPG" alt="Neil Dalgarno" title="Neil Dalgarno" width="220px&quot;; align=&quot;right&quot;; style=&quot;float: right" class="imageleftphil" />
 
 <div class="Instructor_text">
-Founded by <a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Sh%C5%8Dg%C5%8D">Kyoshi</a> Neil Dalgarno, <a href="https://en.wikipedia.org/wiki/Dan_(rank)">7th Dan</a>, in 1990, Greater Toronto Jiu-Jitsu has become the leading centre for Japanese Jiu-Jitsu in the GTA. Neil, who is an <strong>Ontario Certified Teacher</strong> (<a href="https://en.wikipedia.org/wiki/Ontario_Certified_Teacher">O.C.T.</a>) with degrees in <a href="https://en.wikipedia.org/wiki/Kinesiology">Kinesiology</a> and Education, has taught thousands of students over the past thirty years.
+Founded by <a href="https://en.wikipedia.org/wiki/Japanese_honorifics#Sh%C5%8Dg%C5%8D">Kyoshi</a> Neil Dalgarno, <a href="https://en.wikipedia.org/wiki/Dan_(rank)">7th Dan</a>, in 1990, Greater Toronto Jiu-Jitsu has become the leading centre for Japanese Jiu-Jitsu in the GTA. Neil, with degrees in <a href="https://en.wikipedia.org/wiki/Kinesiology">Kinesiology</a> and Education, has taught thousands of students over the past thirty years.
 <br>
 Neil holds many National Coaching Certifications and has coached athletes who have become National team members and Olympic medalists.
 <br>
